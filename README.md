@@ -1,0 +1,1 @@
+# friend-function-in-oop
